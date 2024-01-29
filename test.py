@@ -1,4 +1,4 @@
-open("C:\\Test\Documents\testfile.txt", "x")
+open("testfile.txt", "x")
 #jkfdslfjksdfjkl
 
 
